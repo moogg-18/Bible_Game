@@ -224,5 +224,6 @@ public class StartPanel extends JPanel {
 
         g2.setColor(new Color(40, 40, 40));
         g2.drawString(label, tx, ty);
+
     }
 }
